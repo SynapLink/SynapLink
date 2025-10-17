@@ -40,3 +40,7 @@ A private Android application modification/cheat implementing easy modmenu for:
 * Antilose - which basically means you cant lose
 
 For more information about this application contact us in either Telegram(`@damniewa`) or mail us an email `m@1leet.com`
+
+### KaHook!
+
+A fork of userscript KaHack! which is basically automated answers parser for a Kahoot! quiz, the catch is you need to have a quizId for answers to be displayed, and the only way to get it is by looking at the url on your teachers or the hosts of the quiz screen to get it. I must say its easier to get online as you just gotta screenshot teachers screenshare and rewrite the ID calmly.
