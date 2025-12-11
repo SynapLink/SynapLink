@@ -7,6 +7,7 @@ We do various types of projects, but the primary part of it as well as managing 
 Based on Telegram we moved to GitHub to post some projects. Main communication is done through Telegram DMs or a COEPIT Chat which you can join on request.
 Our people are not as experienced to join professional teams, we just do things on our own trying our best. The main list of languages we work with are:
 * `C#` for Windows applications
+* `Rust` mainly for Linux applications
 * `JavaScript` for userscripts of websites
 * `Python` for quick accessible tools
 * `Java` and `Kotlin` for Android applications
