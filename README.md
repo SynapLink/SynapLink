@@ -1,6 +1,10 @@
-# SynapLink is a private sofware engineering group.
-Main Website: [bottleneck.cc](https://bottleneck.cc)
+<h1 align="center">SynapLink</h1>
 
-README Website: [readme.bottleneck.cc](https://readme.bottleneck.cc)
+Independent software engineering profile.
 
-We do various types of projects, but the primary part of it as well as managing this GitHub profile is a work of a single person who you can contact via Telegram: [damniewa](https://t.me/damniewa)
+## Links
+- Website: [bottleneck.cc](https://bottleneck.cc)
+- About me: [readme.bottleneck.cc](https://readme.bottleneck.cc)
+
+## Contact
+Telegram: [@damniewa](https://t.me/damniewa)
